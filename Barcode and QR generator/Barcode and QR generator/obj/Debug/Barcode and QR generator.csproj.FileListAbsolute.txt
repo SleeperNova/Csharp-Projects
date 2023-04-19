@@ -1,0 +1,37 @@
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.exe.config
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.exe
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.pdb
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode_and_QR_generator.Form1.resources
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode_and_QR_generator.Properties.Resources.resources
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.exe
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.pdb
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\mouss\Desktop\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.CopyComplete
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.exe.config
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.exe
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.pdb
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\bin\Debug\Zen.Barcode.Core.dll
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csprojAssemblyReference.cache
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode_and_QR_generator.Form1.resources
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode_and_QR_generator.Properties.Resources.resources
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.GenerateResource.cache
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.CoreCompileInputs.cache
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.CopyComplete
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.exe
+E:\projects\C#\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.pdb
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.exe.config
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.exe
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\bin\Debug\Barcode and QR generator.pdb
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.AssemblyReference.cache
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode_and_QR_generator.Form1.resources
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode_and_QR_generator.Properties.Resources.resources
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.GenerateResource.cache
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.CoreCompileInputs.cache
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.csproj.CopyComplete
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.exe
+C:\Users\saavedf\source\repos\Barcode and QR generator\Barcode and QR generator\obj\Debug\Barcode and QR generator.pdb
